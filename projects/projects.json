@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Reciclica App",
+    "desc": "Financial management application built using Ionic Framework",
+    "image": "reciclica-app",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/PutriSaynata/reciclica-app"
+    }
+  },
+  {
+    "name": "Giszilla App",
+    "desc": "WebGIS built using HTML and Bootstrap with population data in the Sinduadi Region, Sleman.",
+    "image": "giszilla",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/giszilla-prototype/HTML"
+    }
+  }
+]
