@@ -16,5 +16,23 @@
     "links": {
       "code": "https://github.com/giszilla-prototype/HTML"
     }
+  },
+  {
+    "name": "DICA App",
+    "desc": "Mobile application that can be used to find catering references that provide menus for diet programs.",
+    "image": "logo_dica",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/PutriSaynata/DICA.git"
+    }
+  },
+  {
+    "name": "Peta",
+    "desc": "Various maps used to visualize spatial data.",
+    "image": "Peta Standar",
+    "category": "mern",
+    "links": {
+      "code": "https://drive.google.com/file/d/1Mw_di-QiYuaxI5l0vWDU3ki6PvzhjMR_/view?usp=sharing"
+    }
   }
 ]

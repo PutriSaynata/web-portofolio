@@ -42,5 +42,29 @@
     {
         "name": "Google Earth Engine",
         "icon": "./assets/images/skills/googleearth-engine.png"
+    },
+    {
+        "name": "PHP",
+        "icon": "./assets/images/skills/php.png"
+    },
+    {
+        "name": "DBeaver",
+        "icon": "./assets/images/skills/Dbeaver.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "./assets/images/skills/MySQL.png"
+    },
+    {
+        "name": "Agisoft",
+        "icon": "./assets/images/skills/agisoft.png"
+    },
+    {
+        "name": "Global Mapper",
+        "icon": "./assets/images/skills/globalmapper.png"
+    },
+    {
+        "name": "ENVI",
+        "icon": "./assets/images/skills/ENVI.png"
     }
 ]
