@@ -1,70 +1,98 @@
 [
     {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+        "name": "Agisoft",
+        "icon": "./assets/images/skills/agisoft.png"
     },
     {
-        "name": "HTML5",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
-    },
-    {
-        "name": "CSS3",
-        "icon": "https://img.icons8.com/color/48/000000/css3.png"
-    },
-    {
-        "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
-    },
-    {
-        "name": "PostgreSQL",
-        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
-    },
-    {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "ArcGIS",
-        "icon": "./assets/images/skills/ArcGIS-logo.png"
-    },
-    {
-        "name": "VS Code",
-        "icon": "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"
+        "name": "Anaconda",
+        "icon": "./assets/images/skills/Anaconda.png"
     },
     {
         "name": "Android Studio",
         "icon": "https://img.icons8.com/color/48/000000/android-studio--v3.png"
     },
     {
-        "name": "RStudio",
-        "icon": "./assets/images/skills/rstudio_logo.png"
+        "name": "ArcGIS",
+        "icon": "./assets/images/skills/ArcGIS-logo.png"
     },
     {
-        "name": "Google Earth Engine",
-        "icon": "./assets/images/skills/googleearth-engine.png"
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
     },
     {
-        "name": "PHP",
-        "icon": "./assets/images/skills/php.png"
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "Dart",
+        "icon": "./assets/images/skills/dart.png"
     },
     {
         "name": "DBeaver",
         "icon": "./assets/images/skills/Dbeaver.png"
     },
     {
-        "name": "MySQL",
-        "icon": "./assets/images/skills/MySQL.png"
+        "name": "ENVI",
+        "icon": "./assets/images/skills/ENVI.png"
     },
     {
-        "name": "Agisoft",
-        "icon": "./assets/images/skills/agisoft.png"
+        "name": "Figma",
+        "icon": "./assets/images/skills/Figma.png"
+    },
+    {
+        "name": "Flutter",
+        "icon": "./assets/images/skills/Flutter.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
         "name": "Global Mapper",
         "icon": "./assets/images/skills/globalmapper.png"
     },
     {
-        "name": "ENVI",
-        "icon": "./assets/images/skills/ENVI.png"
+        "name": "Google Earth Engine",
+        "icon": "./assets/images/skills/googleearth-engine.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Kotlin",
+        "icon": "./assets/images/skills/Kotlin.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "./assets/images/skills/MySQL.png"
+    },
+    {
+        "name": "PHP",
+        "icon": "./assets/images/skills/php.png"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+    },
+    {
+        "name": "QGIS",
+        "icon": "./assets/images/skills/QGIS.png"
+    },
+    {
+        "name": "React",
+        "icon": "./assets/images/skills/React.png"
+    },
+    {
+        "name": "RStudio",
+        "icon": "./assets/images/skills/rstudio_logo.png"
+    },
+    {
+        "name": "VS Code",
+        "icon": "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"
     }
 ]

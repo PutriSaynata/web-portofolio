@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["GIS Analytics", "Geospatial Planning", "Spatial Data Science", "Web Development", "Android Development"],
+    strings: ["Software Engineer Enthusiast", "GIS Enthusiast", "Data Science Enthusiast"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
